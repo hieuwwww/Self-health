@@ -1,0 +1,1 @@
+ D:\\Coding\\nutrition\ app\\frontend\\.dart_tool\\flutter_build\\4002f84ae7729d902c8b287f176a7d34\\native_assets.json: 

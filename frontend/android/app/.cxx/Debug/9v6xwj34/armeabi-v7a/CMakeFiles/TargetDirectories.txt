@@ -1,0 +1,2 @@
+D:/Coding/nutrition app/frontend/android/app/.cxx/Debug/9v6xwj34/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Coding/nutrition app/frontend/android/app/.cxx/Debug/9v6xwj34/armeabi-v7a/CMakeFiles/rebuild_cache.dir
